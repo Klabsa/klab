@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Auditorías De Conformidad, Usted si puede cumplir con Normas ó Estándares Nacionales e Internacionales "
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
