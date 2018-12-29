@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tree of Codes"
+title:  "Consultería Y Capacitacíon - Cursos de capacitación y Consultores en sistemas de Gestión"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
