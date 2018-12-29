@@ -3,7 +3,7 @@ layout: post
 title:  "Auditorías De Conformidad, Usted si puede cumplir con Normas ó Estándares Nacionales e Internacionales "
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/4.jpg
+image: assets/images/2.jpg
 featured: true
 ---
 There are lots of powerful things you can do with the Markdown editor
