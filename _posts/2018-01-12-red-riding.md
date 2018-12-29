@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "Red Riding Hood"
+title:  "Servicio de Análisis Químico y Microbiológico"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
