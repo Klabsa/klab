@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Auditoria de Sistemas e Inspecciones Remotas "
+title:  "Auditoria de Sistemas de Gestion e Inspecciones Virtuales "
 author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
