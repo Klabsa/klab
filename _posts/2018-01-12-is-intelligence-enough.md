@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Intelligence Enough"
+title:  "Ingenieros en soluciones Industriales"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
