@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Auditorías De Conformidad, Usted si puede cumplir con Normas ó Estándares Nacionales e Internacionales "
-author: sal
+author: 
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 featured: true
