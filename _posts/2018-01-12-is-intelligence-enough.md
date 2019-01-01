@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ingenieros en soluciones Industriales"
+title:  "Ingenieros en soluciones Industriales / Análisis y Administración de Riesgos"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
