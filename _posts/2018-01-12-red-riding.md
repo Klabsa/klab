@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "Servicio de Análisis de Datos Físico-Químico y Microbiológico"
+title:  "Servicio de Calibración de Termómetros y Servicio de Análisis de Datos"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
