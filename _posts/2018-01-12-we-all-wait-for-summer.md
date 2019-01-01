@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Food Safety - Inocuidad Alimentaria Una Inversión de Futuro"
-categories: [ Jekyll, tutorial ]
+categories: [ Food, inocuidad ]
 image: assets/images/1.jpg
 featured: true
 ---
