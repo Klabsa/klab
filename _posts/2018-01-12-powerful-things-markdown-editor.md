@@ -6,14 +6,13 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 featured: true
 ---
-There are lots of powerful things you can do with the Markdown editor
 
-If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+## Somos Expertos en Normas o Estandares
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+Las normas nacionales e internacionales...
 
 
-## Special formatting
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/aeqWCTYT-qk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
 
