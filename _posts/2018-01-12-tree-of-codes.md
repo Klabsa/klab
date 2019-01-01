@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Consultería Y Capacitacíon - Cursos de capacitación y Consultores en sistemas de Gestión"
+title:  "Consultoría Y Capacitación - Cursos de capacitación y Consultores en sistemas de Gestión"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
